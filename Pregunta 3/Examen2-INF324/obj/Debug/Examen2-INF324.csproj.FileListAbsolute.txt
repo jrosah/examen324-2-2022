@@ -1,0 +1,10 @@
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\bin\Debug\Examen2-INF324.exe.config
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\bin\Debug\Examen2-INF324.exe
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\bin\Debug\Examen2-INF324.pdb
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2-INF324.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2_INF324.Form1.resources
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2_INF324.Properties.Resources.resources
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2-INF324.csproj.GenerateResource.cache
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2-INF324.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2-INF324.exe
+C:\Users\Jorge\source\repos\Examen2-INF324\Examen2-INF324\obj\Debug\Examen2-INF324.pdb
